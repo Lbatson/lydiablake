@@ -1,0 +1,57 @@
+{
+    "baseURL": "https://lydiablake.com",
+    "languageCode": "en-us",
+    "title": "Lydia Blake",
+    "theme": "Landing",
+    "params": {
+        "logo": {
+            "alt": "Lydia Blake",
+            "src": "/image/lydiablake.svg"
+        },
+        "landing": {
+            "title": "Launching<br>soon!",
+            "mobileTitle": "Launching soon!",
+            "subtitle": "We are currently making some<br/>improvements to our website!",
+            "action": {
+                "href": "/subscribe",
+                "text": "Notify Me"
+            }
+        },
+        "notFound": {
+            "title": "Oops!",
+            "subtitle": "Looks like the page you're looking for isn't here.<br/><a href=\"/\">Click here to go to the home page</a>"
+        },
+        "social": [
+            {
+                "alt": "Lydia Blake on Instagram",
+                "src": "/image/instagram.png",
+                "href": "https://instagram.com/lydiablakebooks"
+            },
+            {
+                "alt": "Lydia Blake on Facebook",
+                "src": "/image/facebook.png",
+                "href": "https://facebook.com/lydiablakebooks"
+            },
+            {
+                "alt": "Lydia Blake on Spotify",
+                "src": "/image/spotify.png",
+                "href": "https://open.spotify.com/user/31nv54jghavyqidt5cyrw734ssye?si=a65adb1d8b57492a"
+            },
+            {
+                "alt": "Lydia Blake on Goodreads",
+                "src": "/image/goodreads.png",
+                "href": "https://www.goodreads.com/lydiablakebooks"
+            },
+            {
+                "alt": "Lydia Blake on TikTok",
+                "src": "/image/tiktok.png",
+                "href": "https://www.tiktok.com/@lydiablakebooks"
+            },
+            {
+                "alt": "Lydia Blake on Amazon",
+                "src": "/image/amazon.png",
+                "href": "https://www.amazon.com/-/e/B0B1S4MC1R?ref_=pe_1724030_132998070"
+            }
+        ]
+    }
+}
